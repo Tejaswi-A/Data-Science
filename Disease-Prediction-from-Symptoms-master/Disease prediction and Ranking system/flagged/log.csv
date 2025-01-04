@@ -1,0 +1,17 @@
+Select symptoms:,output,flag,username,timestamp
+"[""burning_micturition"", ""yellow_urine""]",,,,2024-05-12 14:10:18.126157
+"[""chills""]",,,,2024-05-12 14:12:41.171081
+"[""chills""]",,,,2024-05-12 14:12:42.803543
+"[""joint_pain"", ""sunken_eyes""]","Predited Disease Predicted possible Diseases List:
+Gastroenteritis: 40.00%
+Osteoarthristis: 20.00%
+Diabetes : 10.00%
+Dimorphic hemmorhoids(piles): 10.00%
+Psoriasis: 10.00%
+Urinary tract infection: 10.00%",,,2024-05-12 15:31:23.463871
+"[""burning_micturition""]","Predited Disease Predicted possible Diseases List:
+Drug Reaction: 30.00%
+Urinary tract infection: 30.00%
+Osteoarthristis: 20.00%
+Diabetes : 10.00%
+Gastroenteritis: 10.00%",,,2024-05-12 15:33:27.341303
